@@ -8,7 +8,11 @@
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=TeoWeiShan&label=Profile%20views&color=0e75b6&style=flat" alt="TeoWeiShan" /> </p>
 
 - 🌱 I’m currently learning: <a href="https://reactjs.org/" target="_blank"> <img
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        </a> <a href="https://flutter.dev/" target="_blank"> <img
+        src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /></a>
+        </a> <a href="https://dart.dev/" target="_blank"> <img
+        src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
 - 📫 Find me at LinkedIn: <a href="https://www.linkedin.com/in/weishanteo/"> Teo Wei Shan</a>
 
 
@@ -36,9 +40,13 @@
         alt="JavaScript" /> </a>
 <a href="https://reactjs.org/" target="_blank"> <img
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://flutter.dev/" target="_blank"> <img
+        src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /></a>
+<a href="https://dart.dev/" target="_blank"> <img
+        src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img
         src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" /> </a>
-<a href="https://github.com/" target="_blank"> <img
+<a href="https://git-scm.com/" target="_blank"> <img
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img
